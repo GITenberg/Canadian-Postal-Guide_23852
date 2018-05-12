@@ -1,0 +1,31 @@
+_repo: Canadian-Postal-Guide_23852
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Canada. Post Office Department
+    alias: Canada. Post Office Dept.
+    gutenberg_agent_id: '35052'
+    url: http://www.gutenberg.org/2009/agents/35052
+  editor:
+    agent_name: Dewé, John
+    alias: Dewe, John
+    birthdate: 1821
+    gutenberg_agent_id: '26085'
+    url: http://www.gutenberg.org/2009/agents/26085
+description: ''
+gutenberg_issued: '2007-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postal service -- Canada'
+- !lcc 'HE'
+title: Canadian Postal Guide
+url: http://www.gutenberg.org/ebooks/23852
